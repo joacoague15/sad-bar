@@ -60,9 +60,6 @@ function App() {
             .catch((error) => console.error('Error:', error));
     }
 
-    // openai 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
-    // elevenLabs d838abf7e913404cb99dd99d3cf4dd5e
-
     const generateResponse = () => {
         fetch('https://api.openai.com/v1/chat/completions', {
             method: 'POST',
