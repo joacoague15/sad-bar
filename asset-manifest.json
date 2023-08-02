@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sad-bar/static/css/main.bee0e2ba.css",
+    "main.js": "/sad-bar/static/js/main.db1d2399.js",
+    "static/media/sad-drinker.jpg": "/sad-bar/static/media/sad-drinker.43cc282c4f04d59f3882.jpg",
+    "index.html": "/sad-bar/index.html",
+    "main.bee0e2ba.css.map": "/sad-bar/static/css/main.bee0e2ba.css.map",
+    "main.db1d2399.js.map": "/sad-bar/static/js/main.db1d2399.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee0e2ba.css",
+    "static/js/main.db1d2399.js"
+  ]
+}
